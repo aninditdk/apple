@@ -1,0 +1,22 @@
+https://www.apple.com/v/home/w/images/heroes/iphone-12/iphone_12_us__fo0stbby242m_large.jpg
+https://www.apple.com/v/home/w/images/heroes/iphone-12-pro/iphone_12_pro_us__e5oyysg4k0ya_large.jpg
+https://www.apple.com/v/home/w/images/heroes/ipad-air/hero__dvsxv8smkkgi_large.jpg
+
+
+https://www.apple.com/v/home/w/images/promos/racial-equity-and-justice/promo_reji__lj3lxa1vxgyu_large.jpg
+https://www.apple.com/v/home/w/images/promos/watch-black-unity-collection/promo_watch_black_unity_collection__glt5v0ra46q2_large.jpg
+
+https://www.apple.com/v/home/w/images/promos/watch-heart-month/promo_watch_heart_month__d1j3t4c9iu6a_large.jpg
+https://www.apple.com/v/home/w/images/promos/apple-one/tile__cauwwcyyn9hy_large.jpg
+
+https://www.apple.com/v/home/w/images/promos/apple-music-bhm-programs/tile_bhm__b3fry89xycqa_large.jpg
+https://www.apple.com/v/home/w/images/promos/tv-plus-for-all-mankind-s2/promo_tv_plus_for_all_mankind_s2__fpkwai5zk7u6_large.jpg
+
+
+/* BAsic FONT FAMILY */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
