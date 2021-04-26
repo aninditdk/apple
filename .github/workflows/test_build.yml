@@ -10,6 +10,6 @@ jobs:
     steps:
       - name : Checkout
         uses : actions/checkout@v2
-      - run  : docker build -t anindit123456/cicd_pipeline:latest .
+      - run  : docker build -t anindit123456/apple_clone:latest .
       - run  : docker login -u ${{secrets.DOCKER_USERNAME}} -p ${{secrets.DOCKER_PASSWORD}}
       - run  : docker push anindit123456/apple_clone:latest
